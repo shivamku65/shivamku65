@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate and hardworker frontend developer & programmer</h3>
+<h3 align="center">A passionate and hardworker developer & programmer</h3>
 <img align="right" width="400" src ="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?size=338&ext=jpg&ga=GA1.1.2082370165.1716249600&semt=ais_user">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamku65&label=Profile%20views&color=0e75b6&style=flat" alt="shivamku65" /> </p>
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Backend development**
 
 - 👯 I’m looking to collaborate on **Hactoberfest**
-- 💬 Ask me about **C++ , HTML, CSS**
+- 💬 Ask me about **C++ , HTML, CSS, Javascript, SQL, Pyhthon**
 
 - 📫 How to reach me **kushivam077@gmail.com**
 
